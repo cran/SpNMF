@@ -1,0 +1,9 @@
+2effdade669ff289bfcc98ea189f8e5e *DESCRIPTION
+aa2b5df2d7b24a9d6237843b561babc1 *NAMESPACE
+cd27ebdd56015d47173ab638b4f15cc4 *R/choosing_number_of_types.R
+cd919f5195dd8341bbfb45eb1c910950 *R/supervised_NMF.R
+94cde294f77abeee2b1ff88da21543a6 *data/spdata.rda
+088a0802204c02f62a70f90964a75d51 *man/chty.Rd
+62a349e22670a0e14fb76be29c208820 *man/getT.Rd
+5696de7621e16641fe1aa13de744168f *man/spdata.Rd
+80f2416ec05e1a97aa622a80fa8dd5a5 *man/spnmf.Rd
